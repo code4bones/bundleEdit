@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Profs</key>
+	<array>
+		<dict>
+			<key>login</key>
+			<string>2323</string>
+			<key>name</key>
+			<string>2323</string>
+			<key>password</key>
+			<string>23</string>
+		</dict>
+		<dict>
+			<key>login</key>
+			<string>bedr0s</string>
+			<key>name</key>
+			<string>eee</string>
+			<key>password</key>
+			<string>1234</string>
+		</dict>
+		<dict>
+			<key>login</key>
+			<string>hello</string>
+			<key>name</key>
+			<string>world</string>
+			<key>password</key>
+			<string>nasty</string>
+		</dict>
+		<dict>
+			<key>login</key>
+			<string>22222</string>
+			<key>name</key>
+			<string>Olesov</string>
+			<key>password</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

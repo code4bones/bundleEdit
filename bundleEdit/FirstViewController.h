@@ -7,7 +7,27 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "DictionaryListController.h"
 
-@interface FirstViewController : UIViewController
+@interface FirstViewController : UIViewController<
+UITableViewDataSource,
+UITableViewDelegate,
+DataSinkProtocol>
+{
+    NSMutableDictionary *_fileList;
+    UITableView *fileView;
+    NSString *currentFile;
+}
+
+@property(strong,nonatomic) IBOutlet UIButton *btnShow;
+@property(strong,nonatomic) IBOutlet UITableView *fileView;
+
+-(void)loadBookmarks;
+-(void)copyFile:(NSString*)file;
+-(void)loadFile;
++ (NSString *) applicationDocumentsDirectory;
++ (NSString *) applicationWorkspaceDirectory;
++ (NSString *) applicationBookmarksFile;
++ (NSString *) applicationCacheFile;
 
 @end

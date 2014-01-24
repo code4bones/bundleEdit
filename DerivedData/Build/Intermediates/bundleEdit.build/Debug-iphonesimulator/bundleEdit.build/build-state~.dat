@@ -1,0 +1,490 @@
+TbundleEdit
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Info.plist bundleEdit/bundleEdit-Info.plist
+cProcessPCH /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch.pth bundleEdit/bundleEdit-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/main.o /Users/code4bones/Development/src/bundleEdit/bundleEdit/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/AppDelegate.o /Users/code4bones/Development/src/bundleEdit/bundleEdit/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/FirstViewController.o /Users/code4bones/Development/src/bundleEdit/bundleEdit/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/SecondViewController.o /Users/code4bones/Development/src/bundleEdit/bundleEdit/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/EditCell.o /Users/code4bones/Development/src/bundleEdit/EditCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/DictionaryViewController.o /Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/bundleEdit normal i386
+cGenerateDSYMFile /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app.dSYM /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/bundleEdit
+cCpResource bundleEdit/first.png DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first.png
+cCopyStringsFile /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/en.lproj/InfoPlist.strings bundleEdit/en.lproj/InfoPlist.strings
+cCpResource bundleEdit/first@2x.png DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first@2x.png
+cCpResource bundleEdit/second.png DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second.png
+cCpResource bundleEdit/second@2x.png DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second@2x.png
+cCompileXIB /Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/FirstViewController.xib
+cCompileXIB /Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/SecondViewController.xib
+cCompileXIB /Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.xib
+cCpResource Keyboard-en.plist DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-en.plist
+cCpResource Keyboard-ru.plist DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-ru.plist
+cCompileXIB /Users/code4bones/Development/src/bundleEdit/EditCell.xib
+cTouch /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FC52D310000000000244490
+t1338322225
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FC52D380000000000353830
+t1338322232
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FC52D4F0000000000905E40
+t1338322255
+s9461312
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch.pth
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/DictionaryViewController.o
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/EditCell.o
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/FirstViewController.o
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/SecondViewController.o
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/bundleEdit.LinkFileList
+c000000005118452D00000000000003FE
+t1360545069
+s1022
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app.dSYM
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/DictionaryViewController.nib
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/EditCell.nib
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Info.plist
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-en.plist
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-ru.plist
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/PkgInfo
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/bundleEdit
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/en.lproj/FirstViewController.nib
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/en.lproj/SecondViewController.nib
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first.png
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first@2x.png
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second.png
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second@2x.png
+t2
+s0
+
+N/Users/code4bones/Development/src/bundleEdit/EditCell.m
+c0000000051183D870000000000000257
+t1360543111
+s599
+
+N/Users/code4bones/Development/src/bundleEdit/EditCell.xib
+c00000000511844980000000000001E74
+t1360544920
+s7796
+
+N/Users/code4bones/Development/src/bundleEdit/Keyboard-en.plist
+c0000000050F5B96E0000000000000741
+t1358281070
+s1857
+
+N/Users/code4bones/Development/src/bundleEdit/Keyboard-ru.plist
+c0000000051116FF7000000000000111F
+t1360097271
+s4383
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/AppDelegate.m
+c000000005118120A0000000000000C3D
+t1360531978
+s3133
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.m
+c00000000511844E90000000000001465
+t1360545001
+s5221
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.xib
+c000000005118282A00000000000032BE
+t1360537642
+s12990
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/FirstViewController.m
+c0000000051182669000000000000065F
+t1360537193
+s1631
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/SecondViewController.m
+c000000005118120A00000000000003ED
+t1360531978
+s1005
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/bundleEdit-Prefix.pch
+c000000005118120A0000000000000143
+t1360531978
+s323
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/FirstViewController.xib
+c00000000511814630000000000003323
+t1360532579
+s13091
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/InfoPlist.strings
+c000000005118120A000000000000002D
+t1360531978
+s45
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/SecondViewController.xib
+c000000005118120A0000000000002498
+t1360531978
+s9368
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/first.png
+c000000004FA0975100000000000000FD
+t1335924561
+s253
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/first@2x.png
+c000000004FA097510000000000000192
+t1335924561
+s402
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/main.m
+c000000005118120A0000000000000153
+t1360531978
+s339
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/second.png
+c000000004FA097510000000000000080
+t1335924561
+s128
+
+N/Users/code4bones/Development/src/bundleEdit/bundleEdit/second@2x.png
+c000000004FA097510000000000000082
+t1335924561
+s130
+
+NbundleEdit/bundleEdit-Info.plist
+c000000005118120A0000000000000493
+t1360531978
+s1171
+
+CBuild AST from /Users/code4bones/Development/src/bundleEdit/EditCell.m
+r0
+
+CBuild AST from /Users/code4bones/Development/src/bundleEdit/bundleEdit/AppDelegate.m
+r0
+
+CBuild AST from /Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.m
+r0
+
+CBuild AST from /Users/code4bones/Development/src/bundleEdit/bundleEdit/FirstViewController.m
+r0
+
+CBuild AST from /Users/code4bones/Development/src/bundleEdit/bundleEdit/SecondViewController.m
+r0
+
+CBuild AST from /Users/code4bones/Development/src/bundleEdit/bundleEdit/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies448b1cad7cc8b641^95442aad7cc8b641^---0#1#0#--18"Check dependencies36"B04EF69B-A23E-4C9F-8CDF-2197B31D4BBC-
+
+CCompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/AppDelegate.o /Users/code4bones/Development/src/bundleEdit/bundleEdit/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382237869.393773
+e382237869.444197
+r1
+xCompileC
+xDerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/AppDelegate.o
+x/Users/code4bones/Development/src/bundleEdit/bundleEdit/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/code4bones/Development/src/bundleEdit/bundleEdit/AppDelegate.m13f364ad7cc8b641^b3b671ad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/code4bones/Development/src/bundleEdit/bundleEdit/AppDelegate.m0000000000000000^3701"CompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/AppDelegate.o bundleEdit/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/code4bones/Development/src/bundleEdit    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-generated-files.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-own-target-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-all-target-headers.hmap -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-project-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources/i386 -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources -F/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch -MMD -MT dependencies -MF /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/AppDelegate.dia -c /Users/code4bones/Development/src/bundleEdit/bundleEdit/AppDelegate.m -o /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/AppDelegate.o36"A456E59C-FC57-4A73-929B-098EBEDAEF59-
+
+CCompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/DictionaryViewController.o /Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382237869.394812
+e382237869.457271
+r1
+xCompileC
+xDerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/DictionaryViewController.o
+x/Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.md33365ad7cc8b641^5a1175ad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.m0000000000000000^3779"CompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/DictionaryViewController.o bundleEdit/DictionaryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/code4bones/Development/src/bundleEdit    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-generated-files.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-own-target-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-all-target-headers.hmap -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-project-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources/i386 -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources -F/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch -MMD -MT dependencies -MF /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/DictionaryViewController.d --serialize-diagnostics /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/DictionaryViewController.dia -c /Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.m -o /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/DictionaryViewController.o36"1D448B11-5B8F-4078-954C-EA21A391F5C6-
+
+CCompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/EditCell.o /Users/code4bones/Development/src/bundleEdit/EditCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382237869.394815
+e382237869.444408
+r1
+xCompileC
+xDerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/EditCell.o
+x/Users/code4bones/Development/src/bundleEdit/EditCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/code4bones/Development/src/bundleEdit/EditCell.mca3165ad7cc8b641^bdc371ad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/Users/code4bones/Development/src/bundleEdit/EditCell.m0000000000000000^3661"CompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/EditCell.o EditCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/code4bones/Development/src/bundleEdit    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-generated-files.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-own-target-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-all-target-headers.hmap -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-project-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources/i386 -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources -F/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch -MMD -MT dependencies -MF /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/EditCell.d --serialize-diagnostics /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/EditCell.dia -c /Users/code4bones/Development/src/bundleEdit/EditCell.m -o /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/EditCell.o36"5311A041-9D02-4342-844B-AECCE7187122-
+
+CCompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/FirstViewController.o /Users/code4bones/Development/src/bundleEdit/bundleEdit/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382237869.394751
+e382237869.443124
+r1
+xCompileC
+xDerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/FirstViewController.o
+x/Users/code4bones/Development/src/bundleEdit/bundleEdit/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/code4bones/Development/src/bundleEdit/bundleEdit/FirstViewController.m1b2f65ad7cc8b641^b96f71ad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/code4bones/Development/src/bundleEdit/bundleEdit/FirstViewController.m0000000000000000^3749"CompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/FirstViewController.o bundleEdit/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/code4bones/Development/src/bundleEdit    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-generated-files.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-own-target-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-all-target-headers.hmap -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-project-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources/i386 -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources -F/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch -MMD -MT dependencies -MF /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/FirstViewController.d --serialize-diagnostics /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/FirstViewController.dia -c /Users/code4bones/Development/src/bundleEdit/bundleEdit/FirstViewController.m -o /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/FirstViewController.o36"F335C18B-D070-49BA-AB36-70A276D1B425-
+
+CCompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/SecondViewController.o /Users/code4bones/Development/src/bundleEdit/bundleEdit/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382237869.394755
+e382237869.438672
+r1
+xCompileC
+xDerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/SecondViewController.o
+x/Users/code4bones/Development/src/bundleEdit/bundleEdit/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/code4bones/Development/src/bundleEdit/bundleEdit/SecondViewController.ma52e65ad7cc8b641^7b4c70ad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/code4bones/Development/src/bundleEdit/bundleEdit/SecondViewController.m0000000000000000^3755"CompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/SecondViewController.o bundleEdit/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/code4bones/Development/src/bundleEdit    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-generated-files.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-own-target-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-all-target-headers.hmap -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-project-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources/i386 -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources -F/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch -MMD -MT dependencies -MF /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/SecondViewController.d --serialize-diagnostics /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/SecondViewController.dia -c /Users/code4bones/Development/src/bundleEdit/bundleEdit/SecondViewController.m -o /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/SecondViewController.o36"CB402B6F-B949-4010-97CF-78239839CDAD-
+
+CCompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/main.o /Users/code4bones/Development/src/bundleEdit/bundleEdit/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382237869.393757
+e382237869.418617
+r1
+xCompileC
+xDerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/main.o
+x/Users/code4bones/Development/src/bundleEdit/bundleEdit/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/code4bones/Development/src/bundleEdit/bundleEdit/main.mbff264ad7cc8b641^6b2a6bad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/code4bones/Development/src/bundleEdit/bundleEdit/main.m0000000000000000^3659"CompileC DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/main.o bundleEdit/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/code4bones/Development/src/bundleEdit    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-generated-files.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-own-target-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-all-target-headers.hmap -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-project-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources/i386 -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources -F/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch -MMD -MT dependencies -MF /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/main.dia -c /Users/code4bones/Development/src/bundleEdit/bundleEdit/main.m -o /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/main.o36"0650D986-06BE-426F-A6EF-31B394834436-
+
+CCompileXIB /Users/code4bones/Development/src/bundleEdit/EditCell.xib
+s382237869.525013
+e382237870.210396
+r1
+xCompileXIB
+x/Users/code4bones/Development/src/bundleEdit/EditCell.xib
+o2013-02-11 05:11:10.053 Interface Builder Cocoa Touch Tool[3251:13103] CFPreferences: user home directory at file://localhost/Users/code4bones/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compiling /Users/code4bones/Development/src/bundleEdit/EditCell.xib8b7186ad7cc8b641^adde35ae7cc8b641^-245"2013-02-11 05:11:10.053 Interface Builder Cocoa Touch Tool[3251:13103] CFPreferences: user home directory at file://localhost/Users/code4bones/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/code4bones/Development/src/bundleEdit/EditCell.xib0000000000000000^850"CompileXIB EditCell.xib    cd /Users/code4bones/Development/src/bundleEdit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/EditCell.nib /Users/code4bones/Development/src/bundleEdit/EditCell.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"813059B1-14FC-483C-8ABD-92174E03582C-
+
+CCompileXIB /Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.xib
+s382237869.520642
+e382237870.125836
+r1
+xCompileXIB
+x/Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.xib
+o2013-02-11 05:11:10.013 Interface Builder Cocoa Touch Tool[3248:13103] CFPreferences: user home directory at file://localhost/Users/code4bones/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compiling /Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.xib176685ad7cc8b641^933720ae7cc8b641^-245"2013-02-11 05:11:10.013 Interface Builder Cocoa Touch Tool[3248:13103] CFPreferences: user home directory at file://localhost/Users/code4bones/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.xib0000000000000000^920"CompileXIB bundleEdit/DictionaryViewController.xib    cd /Users/code4bones/Development/src/bundleEdit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/DictionaryViewController.nib /Users/code4bones/Development/src/bundleEdit/bundleEdit/DictionaryViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"DC233EBC-04A1-4F45-BD05-EA3D28758269-
+
+CCompileXIB /Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/FirstViewController.xib
+s382237869.520628
+e382237870.191870
+r1
+xCompileXIB
+x/Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/FirstViewController.xib
+o2013-02-11 05:11:10.005 Interface Builder Cocoa Touch Tool[3250:13103] CFPreferences: user home directory at file://localhost/Users/code4bones/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compiling /Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/FirstViewController.xibdf5385ad7cc8b641^0c1f31ae7cc8b641^-245"2013-02-11 05:11:10.005 Interface Builder Cocoa Touch Tool[3250:13103] CFPreferences: user home directory at file://localhost/Users/code4bones/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/FirstViewController.xib0000000000000000^932"CompileXIB bundleEdit/en.lproj/FirstViewController.xib    cd /Users/code4bones/Development/src/bundleEdit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/en.lproj/FirstViewController.nib /Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/FirstViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"D911AE90-9646-4985-953E-14C0107BB981-
+
+CCompileXIB /Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/SecondViewController.xib
+s382237869.520635
+e382237870.179990
+r1
+xCompileXIB
+x/Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/SecondViewController.xib
+o2013-02-11 05:11:10.010 Interface Builder Cocoa Touch Tool[3249:13103] CFPreferences: user home directory at file://localhost/Users/code4bones/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compiling /Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/SecondViewController.xib005485ad7cc8b641^392b2eae7cc8b641^-245"2013-02-11 05:11:10.010 Interface Builder Cocoa Touch Tool[3249:13103] CFPreferences: user home directory at file://localhost/Users/code4bones/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/SecondViewController.xib0000000000000000^935"CompileXIB bundleEdit/en.lproj/SecondViewController.xib    cd /Users/code4bones/Development/src/bundleEdit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/en.lproj/SecondViewController.nib /Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/SecondViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"27D983AD-A864-4B01-AF1D-CAA547014086-
+
+CCopyStringsFile /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/en.lproj/InfoPlist.strings bundleEdit/en.lproj/InfoPlist.strings
+s382237869.519198
+e382237869.523485
+r1
+xCopyStringsFile
+x/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/en.lproj/InfoPlist.strings
+xbundleEdit/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy bundleEdit/en.lproj/InfoPlist.stringsbaf784ad7cc8b641^920386ad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/code4bones/Development/src/bundleEdit/bundleEdit/en.lproj/InfoPlist.strings0000000000000000^641"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/en.lproj/InfoPlist.strings bundleEdit/en.lproj/InfoPlist.strings    cd /Users/code4bones/Development/src/bundleEdit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/en.lproj -- bundleEdit/en.lproj/InfoPlist.strings36"5975E3D0-C3C8-4416-82FB-3F7A3D61AF33-
+
+CCpResource Keyboard-en.plist DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-en.plist
+s382237869.523834
+e382237869.534327
+r1
+xCpResource
+xKeyboard-en.plist
+xDerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-en.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-en.plist1c2686ad7cc8b641^1dca88ad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-en.plist000000000080d041^747"CpResource Keyboard-en.plist DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-en.plist    cd /Users/code4bones/Development/src/bundleEdit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/code4bones/Development/src/bundleEdit/Keyboard-en.plist /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app36"DB120848-4C8E-40E8-8BB3-D82190AEDFE7-
+
+CCpResource Keyboard-ru.plist DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-ru.plist
+s382237869.523841
+e382237869.547901
+r1
+xCpResource
+xKeyboard-ru.plist
+xDerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-ru.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-ru.plist242886ad7cc8b641^5f438cad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-ru.plist000000000080d041^747"CpResource Keyboard-ru.plist DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Keyboard-ru.plist    cd /Users/code4bones/Development/src/bundleEdit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/code4bones/Development/src/bundleEdit/Keyboard-ru.plist /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app36"C46E780D-425B-4F51-A01A-E0D7CAC91532-
+
+CCpResource bundleEdit/first.png DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first.png
+s382237869.519194
+e382237869.522725
+r1
+xCpResource
+xbundleEdit/first.png
+xDerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first.png77f784ad7cc8b641^b3d185ad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first.png000000000080d041^745"CpResource bundleEdit/first.png DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first.png    cd /Users/code4bones/Development/src/bundleEdit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/code4bones/Development/src/bundleEdit/bundleEdit/first.png /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app36"052457B8-D191-4A0A-8630-F35F45C5A7DC-
+
+CCpResource bundleEdit/first@2x.png DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first@2x.png
+s382237869.519482
+e382237869.523916
+r1
+xCpResource
+xbundleEdit/first@2x.png
+xDerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first@2x.pngc80785ad7cc8b641^7d1f86ad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first@2x.png000000000080d041^760"CpResource "bundleEdit/first@2x.png" "DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/first@2x.png"    cd /Users/code4bones/Development/src/bundleEdit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/code4bones/Development/src/bundleEdit/bundleEdit/first@2x.png" /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app36"52A6EE63-E99A-4BD9-9515-804F3154C084-
+
+CCpResource bundleEdit/second.png DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second.png
+s382237869.519496
+e382237869.525207
+r1
+xCpResource
+xbundleEdit/second.png
+xDerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second.pnge60885ad7cc8b641^7e7486ad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second.png000000000080d041^748"CpResource bundleEdit/second.png DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second.png    cd /Users/code4bones/Development/src/bundleEdit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/code4bones/Development/src/bundleEdit/bundleEdit/second.png /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app36"3344B708-8A8E-4EE7-B49B-9CCA47F580BD-
+
+CCpResource bundleEdit/second@2x.png DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second@2x.png
+s382237869.519561
+e382237869.526522
+r1
+xCpResource
+xbundleEdit/second@2x.png
+xDerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second@2x.png800c85ad7cc8b641^58ca86ad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second@2x.png000000000080d041^763"CpResource "bundleEdit/second@2x.png" "DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/second@2x.png"    cd /Users/code4bones/Development/src/bundleEdit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/code4bones/Development/src/bundleEdit/bundleEdit/second@2x.png" /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app36"437CF9B2-BB40-4739-ACB4-9C2066E5D05B-
+
+CGenerateDSYMFile /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app.dSYM /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/bundleEdit
+s382237869.493168
+e382237869.510119
+r1
+xGenerateDSYMFile
+x/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app.dSYM
+x/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/bundleEdit
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Generating /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app.dSYMb94f7ead7cc8b641^c09782ad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app.dSYM000000000080d041^754"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/bundleEdit    cd /Users/code4bones/Development/src/bundleEdit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/bundleEdit -o /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app.dSYM36"85243001-A348-4676-8CFD-50C40E507D98-
+
+CLd /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/bundleEdit normal i386
+s382237869.464974
+e382237869.486259
+r1
+xLd
+x/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/bundleEdit
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/bundleEdit191e77ad7cc8b641^857c7cad7cc8b641^---0#0#0#--1322"Ld DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/bundleEdit normal i386    cd /Users/code4bones/Development/src/bundleEdit    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator -F/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator -filelist /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/Objects-normal/i386/bundleEdit.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/bundleEdit36"18928F1C-BCD5-434F-8AA3-9DEF30B2A1D8-
+
+CProcessInfoPlistFile /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Info.plist bundleEdit/bundleEdit-Info.plist
+s382237869.170070
+e382237869.172813
+r1
+xProcessInfoPlistFile
+x/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Info.plist
+xbundleEdit/bundleEdit-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process bundleEdit/bundleEdit-Info.plist6c962bad7cc8b641^49482cad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/code4bones/Development/src/bundleEdit/bundleEdit/bundleEdit-Info.plist0000000000000000^752"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Info.plist bundleEdit/bundleEdit-Info.plist    cd /Users/code4bones/Development/src/bundleEdit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility bundleEdit/bundleEdit-Info.plist -genpkginfo /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app/Info.plist36"953A4302-9782-4DFF-8B01-5287500ACBE8-
+
+CProcessPCH /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch.pth bundleEdit/bundleEdit-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382237869.180853
+e382237869.386789
+r1
+xProcessPCH
+x/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch.pth
+xbundleEdit/bundleEdit-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile bundleEdit/bundleEdit-Prefix.pch0a642ead7cc8b641^070763ad7cc8b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/code4bones/Development/src/bundleEdit/bundleEdit/bundleEdit-Prefix.pch0000000000000000^3556"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch.pth bundleEdit/bundleEdit-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/code4bones/Development/src/bundleEdit    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-generated-files.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-own-target-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-all-target-headers.hmap -iquote /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/bundleEdit-project-headers.hmap -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources/i386 -I/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/bundleEdit.build/Debug-iphonesimulator/bundleEdit.build/DerivedSources -F/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch.dia -c /Users/code4bones/Development/src/bundleEdit/bundleEdit/bundleEdit-Prefix.pch -o /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch.pth -MMD -MT dependencies -MF /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Intermediates/PrecompiledHeaders/bundleEdit-Prefix-hfyofvwkcvwmqiajburauieqmnxg/bundleEdit-Prefix.pch.d36"7F41CC5E-BBDE-4412-9F60-8826D6A5D4AF-
+
+CProcessPCH /Users/code4bones/Development/src/bundleEdit/DerivedData/bundleEdit/Index/PrecompiledHeaders/bundleEdit-Prefix-eapntigsrclazafafqorkrwmrdxi_ast/bundleEdit-Prefix.pch.pth bundleEdit/bundleEdit-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app
+s382237870.219014
+e382237870.224586
+r1
+xTouch
+x/Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Touch /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app572238ae7cc8b641^bb7e39ae7cc8b641^---0#0#0#--448"Touch DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app    cd /Users/code4bones/Development/src/bundleEdit    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/code4bones/Development/src/bundleEdit/DerivedData/Build/Products/Debug-iphonesimulator/bundleEdit.app36"6632F961-133E-439F-BBB3-097E8C396A4A-
+

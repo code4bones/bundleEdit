@@ -9,6 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate, UITabBarControllerDelegate>
+{
+    NSMutableDictionary *_addList;
+}
 
 @property (strong, nonatomic) UIWindow *window;
 

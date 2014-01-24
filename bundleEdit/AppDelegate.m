@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-
+#import "NetLog/NetLog.h"
 #import "FirstViewController.h"
 
 #import "SecondViewController.h"
@@ -19,14 +19,29 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+
+    NSString *docPath = [FirstViewController applicationDocumentsDirectory];
+    NSString *bmFile = @"bookmarks.plist";
+    NSString *bmFullName = [docPath stringByAppendingPathComponent:bmFile];
+    
+    NSFileManager *fm = [ NSFileManager defaultManager ];
+    if ( [fm fileExistsAtPath:bmFullName ] ) {
+        _addList = [NSMutableDictionary dictionaryWithContentsOfFile:bmFullName ];
+    } else {
+        _addList = [[NSMutableDictionary alloc]init ];
+    }
+    
+    
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     UIViewController *viewController1 = [[FirstViewController alloc] initWithNibName:@"FirstViewController" bundle:nil];
-    UIViewController *viewController2 = [[SecondViewController alloc] initWithNibName:@"SecondViewController" bundle:nil];
+    UIViewController *viewController2 = [[SecondViewController alloc] initWithFiles:_addList];
     self.tabBarController = [[UITabBarController alloc] init];
     self.tabBarController.viewControllers = [NSArray arrayWithObjects:viewController1, viewController2, nil];
     self.window.rootViewController = self.tabBarController;
     [self.window makeKeyAndVisible];
+    
+    
     return YES;
 }
 
